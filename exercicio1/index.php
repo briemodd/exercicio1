@@ -17,10 +17,10 @@
     echo "<a href='https://www.google.com'>google<a>";
 
     echo "<h1>URL relativas</h1>";
-    echo "<a href='oi.php'>oi<a>";
+    echo "<a href='oi.php'>oII<a>";
     echo "<br>";
     echo "<a href='ola.php'>ola<a>";
-
+    
     ?>
 </body>
 </html>
