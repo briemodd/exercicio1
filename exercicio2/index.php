@@ -24,8 +24,6 @@
         echo "<img src='boanoite.jpg' alt='Boa noite!'>";
     }
         
-    
-
     ?>
 </body>
 </html>
